@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Andr%C3%A9s%20Torres&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ing.%20de%20Sistemas%20%7C%20Desarrollador%20%7C%20Ciberseguridad&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Co-fundador+y+Frontend+Lead+en+Bokify+%F0%9F%9A%80;Desarrollo+web%2C+m%C3%B3vil+y+Machine+Learning+%F0%9F%92%BB;Apasionado+por+la+ciberseguridad+%F0%9F%94%90;Construyo+herramientas+pr%C3%A1cticas+que+resuelven+problemas+reales" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+%F0%9F%8E%93;Universidad+Nacional+Jos%C3%A9+Faustino+S%C3%A1nchez+Carri%C3%B3n;Desarrollo+web%2C+m%C3%B3vil+y+Machine+Learning+%F0%9F%92%BB;Apasionado+por+la+ciberseguridad+%F0%9F%94%90;Construyo+herramientas+que+resuelven+problemas+reales" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,10 +22,10 @@
 
 | | |
 |---|---|
-| 🎓 **Formación** | Estudiante de Ingeniería de Sistemas (UNJFSC), con enfoque en ciberseguridad |
-| 🚀 **Experiencia** | Co-fundador y **Frontend Lead** de [Bokify](#-proyecto-destacado-bokify), plataforma que conecta pacientes con psicólogos en Perú |
+| 🎓 **Formación** | Estudiante de Ingeniería de Sistemas en la **Universidad Nacional José Faustino Sánchez Carrión** (UNJFSC), con enfoque en ciberseguridad |
 | 💼 **Busco** | Prácticas pre-profesionales / posición junior en desarrollo de software o ciberseguridad |
-| 🧰 **Fuerte en** | Desarrollo web (Next.js), apps móviles (Flutter / Android), APIs (Flask / FastAPI), bases de datos y ML aplicado |
+| 🧰 **Fuerte en** | Desarrollo web, apps móviles (Flutter / Android), APIs (Flask / FastAPI), bases de datos y ML aplicado |
+| 📂 **Proyectos** | [Ver mis proyectos destacados](#-proyectos-destacados) |
 | 📍 **Ubicación** | Perú 🇵🇪 (abierto a trabajo remoto) |
 | 📬 **Contacto** | [Ir a la sección de contacto](#-conecta-conmigo) |
 
@@ -36,32 +36,49 @@
 ```js
 const yo = {
   nombre: "Andrés Torres",
-  rol: "Estudiante de Ingeniería de Sistemas 🎓",
+  estudios: "Ingeniería de Sistemas 🎓",
+  universidad: "Universidad Nacional José Faustino Sánchez Carrión",
   ubicacion: "Perú 🇵🇪",
   enfoque: ["Desarrollo web y móvil", "Bases de datos", "Machine Learning aplicado", "Ciberseguridad"],
-  actualmente: "Fortaleciendo fundamentos de programación y ciberseguridad 📈",
-  emprendimiento: "Co-fundador y Frontend Lead en Bokify",
+  actualmente: "Fortaleciendo mis fundamentos de programación y ciberseguridad 📈",
   hobbies: ["Programar", "Tecnología", "Videojuegos", "Música"],
-  frase: "Primero resuélvelo, luego escribe el código.",
+  frase: "Excelencia en cada línea de código.",
   contacto: "Escríbeme, siempre respondo 📬"
 };
 ```
 
 - 🔭 Me gusta construir **herramientas prácticas y autocontenidas** que resuelven un problema concreto.
 - 🧪 Mis proyectos van desde apps web y móviles hasta visión por computador e investigación operativa aplicada a la pesca peruana 🐟.
-- 🔐 Estoy profundizando en **ciberseguridad** y buenas prácticas de código seguro.
+- 🔐 Estoy profundizando en **ciberseguridad** y en buenas prácticas de código seguro.
 - 🤝 Abierto a colaborar, aprender y compartir conocimiento.
 - ⚡ Dato curioso: convierto café en código ☕➡️💻
 
 ---
 
-## 🚀 Proyecto destacado: Bokify
+## 🚀 Proyectos destacados
 
-> **Bokify** es una plataforma que conecta pacientes con psicólogos en Perú. Soy **co-fundador y líder de frontend**, y también participo en el desarrollo del backend.
-
-- Diseño e implementación de la interfaz y la experiencia de usuario.
-- Trabajo en equipo con el CTO y co-fundador para llevar el producto de idea a plataforma funcional.
-- 🔗 Repositorio privado. *Puedo mostrar una demo o explicar la arquitectura en entrevista.*
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🐟 Reconocimiento de especies marinas</h3>
+      <p>App que identifica especies marinas con visión por computador usando transfer learning.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Flutter</code> <code>MobileNetV3</code></p>
+      <a href="https://github.com/TU_USUARIO/NOMBRE_REPO">🔗 Ver repositorio</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📝 Digitalizador de exámenes (OMR)</h3>
+      <p>Lee y califica hojas de examen automáticamente con OCR y detección de marcas, al estilo de las lectoras de admisión.</p>
+      <p><code>Python</code> <code>OCR</code> <code>Visión por computador</code></p>
+      <a href="https://github.com/TU_USUARIO/NOMBRE_REPO">🔗 Ver repositorio</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📈 Optimización de producción de conservas</h3>
+      <p>Calcula la mezcla óptima de producción de conserva de caballa con programación lineal (Investigación Operativa).</p>
+      <p><code>Python</code> <code>Flask</code> <code>PuLP</code></p>
+      <a href="https://github.com/TU_USUARIO/NOMBRE_REPO">🔗 Ver repositorio</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -69,9 +86,6 @@ const yo = {
 
 | Proyecto | ¿Qué hace? | Tecnologías |
 |---|---|---|
-| 🐟 **[Reconocimiento de especies marinas](https://github.com/TU_USUARIO/NOMBRE_REPO)** | App que identifica especies marinas con visión por computador (transfer learning) | `Python` `FastAPI` `PostgreSQL` `Flutter` `MobileNetV3` |
-| 📝 **[Digitalizador de exámenes (OMR)](https://github.com/TU_USUARIO/NOMBRE_REPO)** | Lee y califica hojas de examen automáticamente: OCR + detección de marcas, al estilo de las lectoras de admisión | `Python` `OCR` `Visión por computador` |
-| 📈 **[Optimización de producción de conservas](https://github.com/TU_USUARIO/NOMBRE_REPO)** | Calcula la mezcla óptima de producción de conserva de caballa con programación lineal (Investigación Operativa) | `Python` `Flask` `PuLP` |
 | 🎓 **[AcademiQ Pro](https://github.com/TU_USUARIO/NOMBRE_REPO)** | App web para la gestión docente, en un solo archivo HTML, sin servidor, con datos guardados en el navegador | `HTML` `JavaScript` `localStorage` |
 | 📱 **[Bitácora Android](https://github.com/TU_USUARIO/NOMBRE_REPO)** | Port a Android de mi app de notas de escritorio (de Java Swing a móvil) | `Java` `Android` `Gradle` |
 | 🎵 **[MusicAndTQ](https://github.com/TU_USUARIO/NOMBRE_REPO)** | App de música para Android con servicio de reproducción en segundo plano y base de datos local | `Kotlin` `Android Studio` `Room` |
@@ -87,22 +101,22 @@ const yo = {
 <div align="center">
 
 ### 💬 Lenguajes
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,kotlin,dart&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,java,kotlin,dart&theme=dark" />
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,nextjs,react,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,nextjs,react&theme=dark" />
 
 ### 📱 Móvil
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark" />
 
 ### ⚙️ Backend y APIs
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark" />
 
 ### 🗄️ Bases de Datos
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase&theme=dark" />
 
 ### 🧰 Herramientas
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netbeans,figma,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows&theme=dark" />
 
 </div>
 
@@ -141,11 +155,11 @@ Estudio ciberseguridad y voy aplicando lo que aprendo en mis propios proyectos:
 ## 🎯 Metas actuales
 
 - [x] Crear mi perfil de GitHub profesional ✨
-- [x] Co-fundar y lanzar un producto real (Bokify) 🚀
-- [ ] Graduarme como Ingeniero de Sistemas 🎓
+- [ ] Publicar todos mis proyectos con README, capturas y demo 📸
 - [ ] Conseguir mis primeras prácticas / empleo junior 💼
 - [ ] Obtener certificaciones de ciberseguridad (por ejemplo, Security+ o eJPT) 🔐
 - [ ] Contribuir a proyectos open source 🌍
+- [ ] Graduarme como Ingeniero de Sistemas 🎓
 
 ---
 
@@ -164,7 +178,7 @@ Estudio ciberseguridad y voy aplicando lo que aprendo en mis propios proyectos:
 
 <div align="center">
 
-### 💬 *"Todo gran sistema empezó con una línea de código."*
+### 💬 *"La excelencia no es un destino: es el hábito de dar lo mejor de ti, una línea de código a la vez."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
