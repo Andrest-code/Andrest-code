@@ -21,7 +21,7 @@
 
 ```js
 const yo = {
-  nombre: "TU_NOMBRE",
+  nombre: "EDUARDO",
   profesion: "Ingeniero de Sistemas 🎓",
   ubicacion: "Perú 🇵🇪",
   enfoque: ["Desarrollo de software", "Bases de datos", "Redes e infraestructura", "Automatización"],
